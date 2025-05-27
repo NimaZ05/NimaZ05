@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c636de0"/>
 
 <div align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&pause=1000&color=F7F7F7CD&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&letterSpacing=1px&pause=1000&color=F7F7F7CD&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" />
  </a>
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&letterSpacing=1px&color=F7F7F7CD&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting+!;Have+a+Nice+Day+!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&letterSpacing=1px&color=F7F7F7CD&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting+!;Have+a+Nice+Day+!" alt="Typing SVG">
   </a>
 </div>
 
