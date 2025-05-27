@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&pause=1000&color=F7F7F7CD&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c636de0"/>
+
+<div align="center"> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&pause=1000&color=F7F7F7CD&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" />
+ </a>
+</div>
 
 <h1>About Me</h1>
 <ul>
@@ -7,14 +12,25 @@
  <li>I believe in writing maintainable code, solving real-world problems, and growing through continuous learning and collaboration. Whether it's working on a solo project or being part of a team, I thrive in environments that challenge me to improve.</li>
 </ul>
 
+
+<div class="section">
+    <h2 class="section-title">🚀 What I'm Working On Next</h2>
+    <ul>
+     <li>Deepen my understanding of advanced Python and Django</li>
+     <li>Build a fully responsive website using Django and PostgreSQL</li>
+     <li>Improve my coding and problem-solving skills</li>
+     <li>Master advanced concepts in MySQL and PostgreSQL</li>
+    </ul>
+  </div>
+
   <div class="section">
     <h2 class="section-title">🌐 Connect with Me</h2>
     <div class="social-icons">
+      <a href="https://t.me/NimaZ_2"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height=auto width="60"></a>
       <a href="https://instagram.com/nimaz.2"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height=auto width="60"></a>
       <a href="https://discord.gg/NimaZ#3754"><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" height=auto width="60"></a>
       <a href="https://linkedin.com/in/nima-mohammadzadeh05"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height=auto width="60"></a>
       <a href="mailto:nimamohammadzadeh05@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height=auto width="60"></a>
-      <a href="https://x.com/NimaZ20000"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height=auto width="60"></a>
       <a href="https://facebook.com/NimaZ20000"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height=auto width="60"></a>
     </div>
   </div>
@@ -32,18 +48,6 @@
     </div>
   </div>
 
-
-
-  <div class="section">
-    <h2 class="section-title">🚀 What I'm Working On Next</h2>
-    <ul>
-     <li>learn more about django and python advanced</li>
-     <li>create a responsive site with django and postgreSQL</li>
-     <li>improve my coding skills</li>
-     <li>learn advanced MySQL and PostgreSQL</li>
-    </ul>
-  </div>
-
  
   <div class="section">
     <h2 class="section-title">📊 GitHub Stats</h2>
@@ -59,3 +63,11 @@
   </div>
 </body>
 </html>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&letterSpacing=1px&color=F7F7F7CD&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting+!;Have+a+Nice+Day+!" alt="Typing SVG">
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c636de0&section=footer"/>
