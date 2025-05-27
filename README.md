@@ -1,21 +1,61 @@
-# 💫 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&pause=1000&color=F7F7F7CD&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" /></a>
+
+<h1>About Me</h1>
+<ul>
+ <li>Hello! I'm Nima Mohammadzadeh, a passionate Computer Engineering student based in Karaj, Iran. I specialize in backend development, with a strong focus on Python, Django, and   relational databases like MySQL and PostgreSQL.</li>
+ <li>I enjoy building clean, functional web applications and always eager to learn new technologies and frameworks. With a solid foundation in both frontend essentials (HTML, CSS, JS) and backend logic, I'm currently expanding my skills in advanced Python and SQL.</li>
+ <li>I believe in writing maintainable code, solving real-world problems, and growing through continuous learning and collaboration. Whether it's working on a solo project or being part of a team, I thrive in environments that challenge me to improve.</li>
+</ul>
+
+  <div class="section">
+    <h2 class="section-title">🌐 Connect with Me</h2>
+    <div class="social-icons">
+      <a href="https://instagram.com/nimaz.2"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height=auto width="60"></a>
+      <a href="https://discord.gg/NimaZ#3754"><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" height=auto width="60"></a>
+      <a href="https://linkedin.com/in/nima-mohammadzadeh05"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height=auto width="60"></a>
+      <a href="mailto:nimamohammadzadeh05@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height=auto width="60"></a>
+      <a href="https://x.com/NimaZ20000"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" height=auto width="60"></a>
+      <a href="https://facebook.com/NimaZ20000"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" height=auto width="60"></a>
+    </div>
+  </div>
+  <div class="section">
+    <h2 class="section-title">💻 Tech Stack</h2>
+    <div class="tech-icons">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite">
+    </div>
+  </div>
+
+
+
+  <div class="section">
+    <h2 class="section-title">🚀 What I'm Working On Next</h2>
+    <ul>
+     <li>learn more about django and python advanced</li>
+     <li>create a responsive site with django and postgreSQL</li>
+     <li>improve my coding skills</li>
+     <li>learn advanced MySQL and PostgreSQL</li>
+    </ul>
+  </div>
+
  
-
-
-## 🌐 Socials:
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NimaZ#3754) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NimaZ20000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimaz.2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nima-mohammadzadeh05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NimaZ20000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimamohammadzadeh05@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NimaZ05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NimaZ05&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaZ05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=NimaZ05&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <div class="section">
+    <h2 class="section-title">📊 GitHub Stats</h2>
+    <div class="stat-container">
+      <img src="https://github-readme-stats.vercel.app/api?username=NimaZ05&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NimaZ05&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaZ05&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages">
+    </div>
+  </div>
+<div class="quote">
+ <h4>“The expert in anything was once a beginner.”
+</h4>
+  </div>
+</body>
+</html>
