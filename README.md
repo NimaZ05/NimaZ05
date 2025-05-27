@@ -1,17 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c636de0"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=5c636de0"/>
 
 <div align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=24&letterSpacing=1px&pause=1000&color=555&width=435&lines=Hi+there.+My+name+is+Nima;and+I'm+glad+to+be+here+with+you" alt="Typing SVG" />
  </a>
 </div>
 
-<h1>About Me</h1>
-<ul>
- <li>Hello! I'm Nima Mohammadzadeh, a passionate Computer Engineering student based in Karaj, Iran. I specialize in backend development, with a strong focus on Python, Django, and   relational databases like MySQL and PostgreSQL.</li>
- <li>I enjoy building clean, functional web applications and always eager to learn new technologies and frameworks. With a solid foundation in both frontend essentials (HTML, CSS, JS) and backend logic, I'm currently expanding my skills in advanced Python and SQL.</li>
- <li>I believe in writing maintainable code, solving real-world problems, and growing through continuous learning and collaboration. Whether it's working on a solo project or being part of a team, I thrive in environments that challenge me to improve.</li>
-</ul>
-
+<div class="section">
+ <h2 class="about-me">About Me</h2>
+  <ul>
+   <li>Hello! I'm Nima Mohammadzadeh, a passionate Computer Engineering student based in Karaj, Iran. I specialize in backend development, with a strong focus on Python, Django, and   relational databases like MySQL and PostgreSQL.</li>
+   <li>I enjoy building clean, functional web applications and always eager to learn new technologies and frameworks. With a solid foundation in both frontend essentials (HTML, CSS, JS) and backend logic, I'm currently expanding my skills in advanced Python and SQL.</li>
+   <li>I believe in writing maintainable code, solving real-world problems, and growing through continuous learning and collaboration. Whether it's working on a solo project or being part of a team, I thrive in environments that challenge me to improve.</li>
+  </ul>
+</div>
 
 <div class="section">
     <h2 class="section-title">🚀 What I'm Working On Next</h2>
@@ -22,6 +23,18 @@
      <li>Master advanced concepts in MySQL and PostgreSQL</li>
     </ul>
   </div>
+  
+<div class="section">
+  <h2 class="section-title">🧠 Soft Skills</h2>
+   <ul>
+     <li><strong>Fast Learner:</strong> I quickly adapt to new technologies and frameworks, keeping up with the latest in backend development and database systems.</li>
+     <li><strong>Team Collaboration:</strong> I enjoy working with others, sharing ideas, and building solutions together — both in-person and remotely.</li>
+     <li><strong>Problem Solving:</strong> I approach challenges logically and patiently, always aiming to understand the root cause and find clean solutions.</li>
+     <li><strong>Time Management:</strong> I plan my learning path and projects effectively, balancing studies, courses, and practice with discipline.</li>
+     <li><strong>Growth Mindset:</strong> I actively seek feedback, learn from mistakes, and continuously aim to improve both personally and professionally.</li>
+     <li><strong>Detail-Oriented:</strong> I care about code quality, user experience, and documentation, ensuring my work is not only functional but polished.</li>
+   </ul>
+</div>
 
   <div class="section">
     <h2 class="section-title">🌐 Connect with Me</h2>
@@ -70,4 +83,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5c636de0&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=5c636de0&section=footer"/>
