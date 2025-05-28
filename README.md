@@ -65,9 +65,9 @@
   <div class="section">
     <h2 class="section-title">📊 GitHub Stats</h2>
     <div class="stat-container">
-      <img src="https://github-readme-stats.vercel.app/api?username=NimaZ05&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=NimaZ05&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaZ05&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api?username=NimaZ05&theme=nord&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NimaZ05&theme=nord&hide_border=false" alt="GitHub Streak">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaZ05&theme=nord&layout=compact&hide_border=false" alt="Top Languages">
     </div>
   </div>
 <div class="quote">
