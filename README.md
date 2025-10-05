@@ -6,7 +6,7 @@
 </div>
 
 <div class="section">
- <h2 class="about-me">🤖About Me</h2>
+ <h2 class="about-me">🤖 About Me</h2>
   <ul>
    <li>Hello! I'm Nima Mohammadzadeh, a passionate Computer Engineering student based in Karaj, Iran. I specialize in backend development, with a strong focus on Python, Django, and   relational databases like MySQL and PostgreSQL.</li>
    <li>I enjoy building clean, functional web applications and always eager to learn new technologies and frameworks. With a solid foundation in both frontend essentials (HTML, CSS, JS) and backend logic, I'm currently expanding my skills in advanced Python and SQL.</li>
